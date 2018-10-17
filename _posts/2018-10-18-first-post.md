@@ -1,6 +1,6 @@
 ---
 title: "수다피플 GitHub 첫 글"
-date: 2018-10-18 02:56 -0400
+date: 2018-10-18 02:56
 categories:
   - Hello
 tags:
