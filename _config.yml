@@ -1,4 +1,4 @@
-remote_theme : Huxpro/huxpro.github.io
+remote_theme : DigitalMindCH/gridster-jekyll-theme
 
 full_rebuild: true
 name: sudapeople
