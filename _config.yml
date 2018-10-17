@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "sudapeople"
   avatar           : "/img/myimage_100x.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "..."
   location         : "Somewhere"
   email            : "sudapeopletv@gmail.com"
   links:
