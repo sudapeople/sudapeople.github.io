@@ -1,3 +1,15 @@
+---
+title: "어떻게 github.io 를 통해 블로그를 시작하게 되었나."
+date: 2018-10-18 03:40
+categories:
+  - Posts
+tags:
+  - first
+  - post
+  - how
+  - start
+---
+
 ##### 어떻게 github.io 를 통해 블로그를 시작하게 되었나.
 
 개발자들 사이에선 늦게 github 블로그를 사용하게 되었다.
