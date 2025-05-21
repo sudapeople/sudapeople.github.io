@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# Node
+node_modules/
+npm-debug.log
+
+# Editor
+*.swp
+*~
+.project
+.idea/
+.vscode/
+
+# 기타
+*.log 
