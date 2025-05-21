@@ -120,10 +120,9 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
       url: "https://twitter.com/sudapeople"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-      url: "https://facebook.com/sungheeli"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/sungheeli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -138,9 +137,9 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
       url: "https://twitter.com/sudapeople"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/sungheeli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
